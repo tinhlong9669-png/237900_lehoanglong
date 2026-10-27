@@ -26,4 +26,4 @@ Hệ thống quản lý nhân sự cho phép xem danh sách, thêm mới, tìm k
 - Docker Hub Frontend: https://hub.docker.com/r/237900lehoanglong/frontend
 - Render App: https://web-237900.onrender.com
 - Render API: https://api-237900.onrender.com
-- MongoDB Atlas: MONGODB_URI=mongodb+srv://tinhlong9669_db_user:fYAw57g8lzq2UTi6@cluster0.nqp46hi.mongodb.net/237900_lehoanglong?retryWrites=true&w=majority
+- MongoDB Atlas: mongodb+srv://tinhlong9669_db_user:<db_password>@cluster0.nqp46hi.mongodb.net/
