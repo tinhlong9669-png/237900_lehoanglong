@@ -1,0 +1,14 @@
+body { font-family: Arial, sans-serif; background: #f4f6f8; margin: 0; }
+.container { max-width: 1100px; margin: 0 auto; padding: 20px; }
+h1 { text-align: center; }
+.form { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-bottom: 20px; }
+input, select { padding: 8px; border: 1px solid #ccc; border-radius: 4px; }
+button { padding: 8px 12px; margin-right: 4px; border: none; border-radius: 4px; background: #2563eb; color: #fff; cursor: pointer; }
+.search { display: flex; gap: 8px; margin-bottom: 16px; }
+.search input { flex: 1; }
+table { width: 100%; border-collapse: collapse; background: #fff; }
+th, td { border: 1px solid #ddd; padding: 8px; text-align: left; font-size: 14px; }
+th { background: #e5e7eb; }
+.msg { padding: 10px; border-radius: 4px; margin-bottom: 12px; }
+.msg.success { background: #d1fae5; color: #065f46; }
+.msg.error { background: #fee2e2; color: #991b1b; }
